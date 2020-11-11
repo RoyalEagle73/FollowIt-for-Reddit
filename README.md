@@ -1,3 +1,5 @@
+![Follow-It-logo](https://user-images.githubusercontent.com/34307370/98824702-9c6cd700-2459-11eb-81ba-491afad8110e.png)
+
 # FollowIt for Reddit
 A script to subscribe all the subreddits given in a list, in one click.
 
