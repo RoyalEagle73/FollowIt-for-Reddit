@@ -27,7 +27,9 @@ Javascript
 
 ### Follow me on
 [GitHub](https://Github.com/Royaleagle73)
+
 [Reddit](https://reddit.com/u/royaleagle73)
+
 [Linkedin](https://www.linkedin.com/in/deepakchauhan878)
 
 ⛥ the repo, if it helped you :)
